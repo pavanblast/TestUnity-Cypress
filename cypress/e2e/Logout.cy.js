@@ -1,0 +1,1 @@
+//Logout is already covered in other specs.
